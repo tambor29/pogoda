@@ -1,0 +1,12 @@
+{
+    "name": "mczerwonka/demo-projekt",
+    "autoload": {
+        "psr-0": {"": "src/" }
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "monolog/monolog": "dev-master",
+        "symfony/stopwatch": "^2.7",
+        "symfony/filesystem": "^2.7"
+    }
+}
